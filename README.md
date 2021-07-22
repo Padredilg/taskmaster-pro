@@ -3,10 +3,10 @@
 # Taskmaster Pro Edition :pencil:
 
 ## :label: Description
-A more sophisticated program for a person to keep track of their tasks.
+A very friendly and interactive program for a user to organize their tasks by date and keep track of their deadlines.
 
 ## :scroll: Instructions
-Add tasks, edit tasks, delete tasks.
+Add tasks, edit tasks, drag the tasks through the different columns and status, and delete tasks.
 
 ## 	:hash: Built With
 :heavy_check_mark: HTML</br>
@@ -20,6 +20,7 @@ Link to Website: https://padredilg.github.io/taskmaster-pro/
 </br></br>
 Screenshot from Website:
 ![screenshot of website](./assets/images/taskmaster-website-ss.png)
+![screenshot of website](./assets/images/taskmaster-website-ss2.png)
 
 ## :clap: Credits
 
